@@ -1,0 +1,50 @@
+name: Extractor de EPG Personalizado
+
+on:
+  workflow_dispatch: # Activa el botón manual en GitHub para correrlo cuando quieras
+  schedule:
+    - cron: '0 5 */3 * *' # Se ejecuta automáticamente a las 05:00 UTC cada 3 días
+
+jobs:
+  build-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Descarga los archivos de tu repositorio (el custom.channels.xml)
+      - name: Descargar repositorio propio
+        uses: actions/checkout@v3
+
+      # 2. Clona el motor oficial de iptv-org/epg de forma ultra rápida
+      - name: Clonar motor de iptv-org
+        run: git clone --depth 1 -b master https://github.com/iptv-org/epg.git iptv_engine
+
+      # 3. Instala Node.js en el servidor de GitHub
+      - name: Configurar Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      # 4. Instala las dependencias necesarias dentro de la carpeta del motor
+      - name: Instalar dependencias del motor
+        run: |
+          cd iptv_engine
+          npm install
+
+      # 5. Mueve tu lista personalizada dentro de la carpeta del motor para que la procese
+      - name: Preparar canales personalizados
+        run: cp custom.channels.xml iptv_engine/custom.channels.xml
+
+      # 6. Lanza el comando maestro usando tu lista unificada de GatoTV y Reportv
+      - name: Ejecutar raspado de canales
+        run: |
+          cd iptv_engine
+          npm run grab --- --channels=custom.channels.xml --output=../guia_laboratorio.xml
+
+      # 7. Sube el archivo final generado (guia_laboratorio.xml) a tu repositorio
+      - name: Guardar archivo final en GitHub
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add guia_laboratorio.xml
+          git commit -m "Guía actualizada automáticamente por el robot" || exit 0
+          git push
