@@ -18,11 +18,11 @@ jobs:
       - name: Clonar motor de iptv-org
         run: git clone --depth 1 -b master https://github.com/iptv-org/epg.git iptv_engine
 
-      # 3. Instala Node.js en el servidor de GitHub
+      # 3. Instala Node.js v20 en el servidor de GitHub para evitar el error de 'File'
       - name: Configurar Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18'
+          node-version: '20'
 
       # 4. Instala las dependencias necesarias dentro de la carpeta del motor
       - name: Instalar dependencias del motor
