@@ -13,4 +13,5 @@
   <channel site="reportv.com.ar" site_id="6999" lang="es" xmltv_id="">DIRECTV SPORTS 2 HD</channel>
   <channel site="reportv.com.ar" site_id="7000" lang="es" xmltv_id="DirecTVSportsPlus.us@Panregional">DIRECTV SPORTS +</channel>
   <channel site="reportv.com.ar" site_id="7001" lang="es" xmltv_id="">DIRECTV SPORTS + HD</channel>
+  <channel site="directv.com.ar" site_id="1294#ESPHD" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1604.png" xmltv_id="">ESPN Premium (HD)</channel>
 </channels>
