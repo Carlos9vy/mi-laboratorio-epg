@@ -8,7 +8,12 @@
   <channel site="gatotv.com" site_id="tc_television" lang="es" xmltv_id="">Canal TC Televisión</channel>
   <channel site="gatotv.com" site_id="gamavision" lang="es" xmltv_id="Gamavision.ec@SD">Canal Gamavisión</channel>
   <channel site="gatotv.com" site_id="espn_premium_chile" lang="es" xmltv_id="">Canal ESPN Premium (Chile)</channel>
+  <channel site="reportv.com.ar" site_id="3290" lang="es" xmltv_id="BrazzersTVEurope.us@SD">BRAZZERS TV</channel>
+  <channel site="reportv.com.ar" site_id="3291" lang="es" xmltv_id="PenthouseTV.us@SD">PENTHOUSE</channel>
+  <channel site="reportv.com.ar" site_id="3292" lang="es" xmltv_id="PlayboyTVLatinAmerica.us@SD">PLAYBOY</channel>
+  <channel site="reportv.com.ar" site_id="3294" lang="es" xmltv_id="Venus.ar@SD">VENUS</channel>
   <channel site="reportv.com.ar" site_id="3300" lang="es" xmltv_id="AvilaTV.ve@SD">ÁVILA TV</channel>
+  <channel site="reportv.com.ar" site_id="2376" lang="es" xmltv_id="GoldenPremier.mx@SD">GOLDEN PREMIER</channel>
   <channel site="reportv.com.ar" site_id="6996" lang="es" xmltv_id="">DIRECTV SPORTS</channel>
   <channel site="reportv.com.ar" site_id="6997" lang="es" xmltv_id="">DIRECTV SPORTS HD</channel>
   <channel site="reportv.com.ar" site_id="6998" lang="es" xmltv_id="DirecTVSports2.us@Panregional">DIRECTV SPORTS 2</channel>
