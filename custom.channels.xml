@@ -5,13 +5,17 @@
   <channel site="gatotv.com" site_id="uno_ecuador" lang="es" xmltv_id="">Canal Uno (Ecuador)</channel>
   <channel site="gatotv.com" site_id="ecuador_tv" lang="es" xmltv_id="EcuadorTV.ec@SD">Canal Ecuador TV</channel>
   <channel site="gatotv.com" site_id="ecuavisa_ecuador" lang="es" xmltv_id="Ecuavisa.ec@SD">Canal Ecuavisa (Ecuador)</channel>
-   <channel site="gatotv.com" site_id="tc_television" lang="es" xmltv_id="">Canal TC Televisión</channel>
+  <channel site="gatotv.com" site_id="tc_television" lang="es" xmltv_id="">Canal TC Televisión</channel>
+  <channel site="gatotv.com" site_id="gamavision" lang="es" xmltv_id="Gamavision.ec@SD">Canal Gamavisión</channel>
   <channel site="gatotv.com" site_id="espn_premium_chile" lang="es" xmltv_id="">Canal ESPN Premium (Chile)</channel>
- <channel site="reportv.com.ar" site_id="6996" lang="es" xmltv_id="">DIRECTV SPORTS</channel>
+  <channel site="reportv.com.ar" site_id="3300" lang="es" xmltv_id="AvilaTV.ve@SD">ÁVILA TV</channel>
+  <channel site="reportv.com.ar" site_id="6996" lang="es" xmltv_id="">DIRECTV SPORTS</channel>
   <channel site="reportv.com.ar" site_id="6997" lang="es" xmltv_id="">DIRECTV SPORTS HD</channel>
   <channel site="reportv.com.ar" site_id="6998" lang="es" xmltv_id="DirecTVSports2.us@Panregional">DIRECTV SPORTS 2</channel>
   <channel site="reportv.com.ar" site_id="6999" lang="es" xmltv_id="">DIRECTV SPORTS 2 HD</channel>
   <channel site="reportv.com.ar" site_id="7000" lang="es" xmltv_id="DirecTVSportsPlus.us@Panregional">DIRECTV SPORTS +</channel>
   <channel site="reportv.com.ar" site_id="7001" lang="es" xmltv_id="">DIRECTV SPORTS + HD</channel>
+  <channel site="reportv.com.ar" site_id="2138" lang="es" xmltv_id="Venevision.ve@SD">VENEVISION</channel>
+  <channel site="reportv.com.ar" site_id="914" lang="es" xmltv_id="VePlus.ve@Venezuela">VENEVISION PLUS</channel>
   <channel site="directv.com.ar" site_id="1294#ESPHD" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1604.png" xmltv_id="">ESPN Premium (HD)</channel>
 </channels>
