@@ -8,6 +8,8 @@
   <channel site="gatotv.com" site_id="tc_television" lang="es" xmltv_id="">Canal TC Televisión</channel>
   <channel site="gatotv.com" site_id="gamavision" lang="es" xmltv_id="Gamavision.ec@SD">Canal Gamavisión</channel>
   <channel site="gatotv.com" site_id="espn_premium_chile" lang="es" xmltv_id="">Canal ESPN Premium (Chile)</channel>
+  <channel site="gatotv.com" site_id="amc_series_chile" lang="es" xmltv_id="">Canal AMC Series (Chile)</channel>
+  <channel site="gatotv.com" site_id="amc_series_colombia" lang="es" xmltv_id="">Canal AMC Series (Colombia)</channel>
   <channel site="reportv.com.ar" site_id="3290" lang="es" xmltv_id="BrazzersTVEurope.us@SD">BRAZZERS TV</channel>
   <channel site="reportv.com.ar" site_id="3291" lang="es" xmltv_id="PenthouseTV.us@SD">PENTHOUSE</channel>
   <channel site="reportv.com.ar" site_id="3292" lang="es" xmltv_id="PlayboyTVLatinAmerica.us@SD">PLAYBOY</channel>
