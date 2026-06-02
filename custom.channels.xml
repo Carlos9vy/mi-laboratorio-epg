@@ -10,6 +10,18 @@
   <channel site="gatotv.com" site_id="espn_premium_chile" lang="es" xmltv_id="">Canal ESPN Premium (Chile)</channel>
   <channel site="gatotv.com" site_id="amc_series_chile" lang="es" xmltv_id="">Canal AMC Series (Chile)</channel>
   <channel site="gatotv.com" site_id="amc_series_colombia" lang="es" xmltv_id="">Canal AMC Series (Colombia)</channel>
+  <channel site="gatotv.com" site_id="america_television_peru" lang="es" xmltv_id="AmericaTelevision.pe@SD">Canal América Televisión (Perú)</channel>
+  <channel site="gatotv.com" site_id="tv_azteca_corazon" lang="es" xmltv_id="AzCorazon.mx@SD">Canal TV Azteca Corazón</channel>
+  <channel site="gatotv.com" site_id="cgtn_espanol" lang="es" xmltv_id="">Canal CGTN-Español</channel>
+  <channel site="gatotv.com" site_id="de_pelicula_clasico" lang="es" xmltv_id="DePeliculaClasico.mx@SD">Canal De Película Clásico</channel>
+  <channel site="gatotv.com" site_id="de_pelicula" lang="es" xmltv_id="DePeliculaLatinAmerica.mx@SD">Canal De Película</channel>
+  <channel site="gatotv.com" site_id="dhe" lang="es" xmltv_id="DHE.us@SD">Canal DHE</channel>
+  <channel site="gatotv.com" site_id="tnt_sports" lang="es" xmltv_id="">Canal TNT Sports</channel>
+  <channel site="gatotv.com" site_id="tnt_sports_2_chile" lang="es" xmltv_id="">Canal TNT Sports 2 (Chile)</channel>
+  <channel site="gatotv.com" site_id="tnt_sports_3_chile" lang="es" xmltv_id="">Canal TNT Sports 3 (Chile)</channel>
+  <channel site="gatotv.com" site_id="tudn_centroamerica" lang="es" xmltv_id="">Canal TUDN (Centroamérica)</channel>
+  <channel site="gatotv.com" site_id="tudn_mexico" lang="es" xmltv_id="TUDN.mx@SD">Canal TUDN (México)</channel>
+  <channel site="gatotv.com" site_id="tudn_estados_unidos" lang="es" xmltv_id="TUDN.us@SD">Canal TUDN (Estados Unidos)</channel>
   <channel site="reportv.com.ar" site_id="3290" lang="es" xmltv_id="BrazzersTVEurope.us@SD">BRAZZERS TV</channel>
   <channel site="reportv.com.ar" site_id="3291" lang="es" xmltv_id="PenthouseTV.us@SD">PENTHOUSE</channel>
   <channel site="reportv.com.ar" site_id="3292" lang="es" xmltv_id="PlayboyTVLatinAmerica.us@SD">PLAYBOY</channel>
