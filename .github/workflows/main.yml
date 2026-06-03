@@ -34,11 +34,11 @@ jobs:
       - name: Preparar canales personalizados
         run: cp custom.channels.xml iptv_engine/custom.channels.xml
 
-      # 6. Lanza el comando maestro usando tu lista unificada de GatoTV y Reportv
+      # 6. Lanza el comando maestro usando tu lista unificada y forzando a 5 días
       - name: Ejecutar raspado de canales
         run: |
           cd iptv_engine
-          npm run grab --- --channels=custom.channels.xml --output=../guia_laboratorio.xml
+          npm run grab --- --channels=custom.channels.xml --output=../guia_laboratorio.xml --days=5
 
       # 7. Sube el archivo final generado (guia_laboratorio.xml) a tu repositorio
       - name: Guardar archivo final en GitHub
@@ -46,5 +46,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add guia_laboratorio.xml
-          git commit -m "Guía actualizada automáticamente por el robot" || exit 0
+          git commit -m "Guía de 5 días actualizada automáticamente por el robot" || exit 0
           git push
