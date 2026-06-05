@@ -22,10 +22,6 @@
   <channel site="gatotv.com" site_id="tudn_centroamerica" lang="es" xmltv_id="">Canal TUDN (Centroamérica)</channel>
   <channel site="gatotv.com" site_id="tudn_mexico" lang="es" xmltv_id="TUDN.mx@SD">Canal TUDN (México)</channel>
   <channel site="gatotv.com" site_id="tudn_estados_unidos" lang="es" xmltv_id="TUDN.us@SD">Canal TUDN (Estados Unidos)</channel>
-  <channel site="reportv.com.ar" site_id="3290" lang="es" xmltv_id="BrazzersTVEurope.us@SD">BRAZZERS TV</channel>
-  <channel site="reportv.com.ar" site_id="3291" lang="es" xmltv_id="PenthouseTV.us@SD">PENTHOUSE</channel>
-  <channel site="reportv.com.ar" site_id="3292" lang="es" xmltv_id="PlayboyTVLatinAmerica.us@SD">PLAYBOY</channel>
-  <channel site="reportv.com.ar" site_id="3294" lang="es" xmltv_id="Venus.ar@SD">VENUS</channel>
   <channel site="reportv.com.ar" site_id="3300" lang="es" xmltv_id="AvilaTV.ve@SD">ÁVILA TV</channel>
   <channel site="reportv.com.ar" site_id="2376" lang="es" xmltv_id="GoldenPremier.mx@SD">GOLDEN PREMIER</channel>
   <channel site="reportv.com.ar" site_id="6996" lang="es" xmltv_id="">DIRECTV SPORTS</channel>
@@ -36,6 +32,16 @@
   <channel site="reportv.com.ar" site_id="7001" lang="es" xmltv_id="">DIRECTV SPORTS + HD</channel>
   <channel site="reportv.com.ar" site_id="2138" lang="es" xmltv_id="Venevision.ve@SD">VENEVISION</channel>
   <channel site="reportv.com.ar" site_id="914" lang="es" xmltv_id="VePlus.ve@Venezuela">VENEVISION PLUS</channel>
+  <channel site="reportv.com.ar" site_id="137" lang="es" xmltv_id="">DE PELICULA</channel>
+  <channel site="mi.tv" site_id="mx#de-pelicula" lang="es" xmltv_id="">De Película</channel>
+  <channel site="mi.tv" site_id="mx#de-pelicula-hd" lang="es" xmltv_id="DePeliculaLatinAmerica.mx@SD">De Película HD</channel>
+  <channel site="programacion.tcc.com.uy" site_id="435" lang="es" xmltv_id="PlayboyTVLatinAmerica.us@SD">Playboy</channel>
+  <channel site="programacion.tcc.com.uy" site_id="436" lang="es" xmltv_id="">PPV 16 Brazzers</channel>
+  <channel site="programacion.tcc.com.uy" site_id="437" lang="es" xmltv_id="">PPV 15 Penthouse</channel>
+  <channel site="programacion.tcc.com.uy" site_id="438" lang="es" xmltv_id="Sextreme.br@SD">PPV 14 Sextreme</channel>
+  <channel site="programacion.tcc.com.uy" site_id="439" lang="es" xmltv_id="">Climax</channel>
+  <channel site="programacion.tcc.com.uy" site_id="440" lang="es" xmltv_id="Venus.ar@SD">Venus</channel>
+  <channel site="programacion.tcc.com.uy" site_id="296" lang="es" xmltv_id="CGTNSpanish.cn@SD">CGTN Español HD</channel>
   <channel site="programacion.tcc.com.uy" site_id="452" lang="es" xmltv_id="">Universal Premiere</channel>
   <channel site="programacion.tcc.com.uy" site_id="453" lang="es" xmltv_id="">Universal Cinema</channel>
   <channel site="programacion.tcc.com.uy" site_id="454" lang="es" xmltv_id="">Universal Reality</channel>
