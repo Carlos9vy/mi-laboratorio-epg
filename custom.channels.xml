@@ -34,6 +34,8 @@
   <channel site="reportv.com.ar" site_id="914" lang="es" xmltv_id="VePlus.ve@Venezuela">VENEVISION PLUS</channel>
   <channel site="reportv.com.ar" site_id="137" lang="es" xmltv_id="">DE PELICULA</channel>
   <channel site="mi.tv" site_id="mx#de-pelicula" lang="es" xmltv_id="">De Película</channel>
+  <channel site="mi.tv" site_id="mx#xh-gc-canal-5" lang="es" xmltv_id="Canal5.mx@SD">Canal 5</channel>
+  <channel site="mi.tv" site_id="mx#xh-gc-canal-5-hd" lang="es" xmltv_id="">Canal 5 HD</channel>
   <channel site="mi.tv" site_id="mx#de-pelicula-hd" lang="es" xmltv_id="DePeliculaLatinAmerica.mx@SD">De Película HD</channel>
   <channel site="mi.tv" site_id="ar#fox-sports-premium" lang="es" xmltv_id="ESPNPremium.ar@SD">FOX Sports Premium</channel>
   <channel site="programacion.tcc.com.uy" site_id="435" lang="es" xmltv_id="PlayboyTVLatinAmerica.us@SD">Playboy</channel>
