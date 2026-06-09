@@ -35,6 +35,7 @@
   <channel site="reportv.com.ar" site_id="137" lang="es" xmltv_id="">DE PELICULA</channel>
   <channel site="mi.tv" site_id="mx#de-pelicula" lang="es" xmltv_id="">De Película</channel>
   <channel site="mi.tv" site_id="mx#de-pelicula-hd" lang="es" xmltv_id="DePeliculaLatinAmerica.mx@SD">De Película HD</channel>
+  <channel site="mi.tv" site_id="ar#fox-sports-premium" lang="es" xmltv_id="ESPNPremium.ar@SD">FOX Sports Premium</channel>
   <channel site="programacion.tcc.com.uy" site_id="435" lang="es" xmltv_id="PlayboyTVLatinAmerica.us@SD">Playboy</channel>
   <channel site="programacion.tcc.com.uy" site_id="436" lang="es" xmltv_id="">PPV 16 Brazzers</channel>
   <channel site="programacion.tcc.com.uy" site_id="437" lang="es" xmltv_id="">PPV 15 Penthouse</channel>
