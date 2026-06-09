@@ -48,5 +48,7 @@
   <channel site="programacion.tcc.com.uy" site_id="455" lang="es" xmltv_id="">Universal Comedy</channel>
   <channel site="programacion.tcc.com.uy" site_id="456" lang="es" xmltv_id="">Universal Crime</channel>
   <channel site="programacion.tcc.com.uy" site_id="468" lang="es" xmltv_id="SonyMoviesLatinAmerica.us@SD">Sony Movies</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch3298" lang="es" xmltv_id="">M DEPORTES HD</channel>
+  <channel site="tv.movistar.com.pe" site_id="lch3300" lang="es" xmltv_id="">M DEPORTES</channel>
   <channel site="directv.com.ar" site_id="1294#ESPHD" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1604.png" xmltv_id="">ESPN Premium (HD)</channel>
 </channels>
