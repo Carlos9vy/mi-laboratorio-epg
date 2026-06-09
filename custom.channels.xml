@@ -50,5 +50,18 @@
   <channel site="programacion.tcc.com.uy" site_id="468" lang="es" xmltv_id="SonyMoviesLatinAmerica.us@SD">Sony Movies</channel>
   <channel site="tv.movistar.com.pe" site_id="lch3298" lang="es" xmltv_id="">M DEPORTES HD</channel>
   <channel site="tv.movistar.com.pe" site_id="lch3300" lang="es" xmltv_id="">M DEPORTES</channel>
+  <channel site="plex.tv" site_id="66633339ebeb02ee8bd1597c" lang="es" xmltv_id="FIFAPlus.uk@HispanicAmerica">FIFA+</channel>
+  <channel site="plex.tv" site_id="608b7094a09205002da4f291" lang="es" xmltv_id="">FreeTV Acción</channel>
+  <channel site="plex.tv" site_id="623954128ed2b3b15baecb2c" lang="es" xmltv_id="">FreeTV Banda</channel>
+  <channel site="plex.tv" site_id="691d582984325d49bfa06ab2" lang="es" xmltv_id="">FreeTV Clásico</channel>
+  <channel site="plex.tv" site_id="608b7095a09205002da4f295" lang="es" xmltv_id="">FreeTV Drama</channel>
+  <channel site="plex.tv" site_id="6018913ea15130002b284193" lang="es" xmltv_id="">FreeTV Estelar</channel>
+  <channel site="plex.tv" site_id="60240f57676235002df19f49" lang="es" xmltv_id="">FreeTV Familia</channel>
+  <channel site="plex.tv" site_id="697278d331b12b32a91db6b1" lang="es" xmltv_id="">FreeTV Hits</channel>
+  <channel site="plex.tv" site_id="6018913ea15130002b28418f" lang="es" xmltv_id="">FreeTV Live</channel>
+  <channel site="plex.tv" site_id="6972759a1f24d187b5b19320" lang="es" xmltv_id="">FreeTV Saber Más</channel>
+  <channel site="plex.tv" site_id="6018913ea15130002b284195" lang="es" xmltv_id="">FreeTV Saber Más</channel>
+  <channel site="plex.tv" site_id="6018913fa15130002b284197" lang="es" xmltv_id="">FreeTV Sureño</channel>
+  <channel site="plex.tv" site_id="691d5ab9a6537ef50c36bae7" lang="es" xmltv_id="">FreeTV Sureño</channel>
   <channel site="directv.com.ar" site_id="1294#ESPHD" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1604.png" xmltv_id="">ESPN Premium (HD)</channel>
 </channels>
