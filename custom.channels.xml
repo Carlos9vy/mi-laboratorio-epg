@@ -63,5 +63,8 @@
   <channel site="plex.tv" site_id="6018913ea15130002b284195" lang="es" xmltv_id="">FreeTV Saber Más</channel>
   <channel site="plex.tv" site_id="6018913fa15130002b284197" lang="es" xmltv_id="">FreeTV Sureño</channel>
   <channel site="plex.tv" site_id="691d5ab9a6537ef50c36bae7" lang="es" xmltv_id="">FreeTV Sureño</channel>
-  <channel site="directv.com.ar" site_id="1294#ESPHD" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1604.png" xmltv_id="">ESPN Premium (HD)</channel>
-</channels>
+  <channel site="pluto.tv" site_id="66997d18a1b69e00082ee85f" lang="es" xmltv_id="">FIFA+</channel>
+  <channel site="pluto.tv" site_id="6582f002a620e3000813b329" lang="es" xmltv_id="">Azteca Deportes Network</channel>
+  <channel site="pluto.tv" site_id="65cf60d166eec80008724e6f" lang="es" xmltv_id="">Azteca Deportes Premium</channel>
+  <channel site="pluto.tv" site_id="646cce4d1593940008a33f09" lang="es" xmltv_id="">Azteca Internacional</channel>
+<channels>
