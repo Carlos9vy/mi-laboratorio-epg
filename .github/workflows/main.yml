@@ -38,13 +38,32 @@ jobs:
       - name: Ejecutar raspado de canales
         run: |
           cd iptv_engine
-          npm run grab --- --channels=custom.channels.xml --output=../guia_laboratorio.xml --days=5
+          npm run grab -- --channels=custom.channels.xml --output=../guia_laboratorio.xml --days=5
 
-      # 7. Sube el archivo final generado (guia_laboratorio.xml) a tu repositorio
+      # 🔥 7. NUEVO: Corregir caracteres especiales y ampersands rotos en el XML generado
+      - name: Sanear y corregir guia_laboratorio.xml
+        run: |
+          python3 -c "
+          import re
+          try:
+              with open('guia_laboratorio.xml', 'r', encoding='utf-8') as f:
+                  contenido = f.read()
+              
+              # Reemplaza los '&' sueltos por '&amp;' (solo si no están ya codificados)
+              contenido_corregido = re.sub(r'&(?![a-zA-Z0-9#]+;)', '&amp;', contenido)
+              
+              with open('guia_laboratorio.xml', 'w', encoding='utf-8') as f:
+                  f.write(contenido_corregido)
+              print('🎉 XML saneado con éxito. Ampersands corregidos.')
+          except Exception as e:
+              print(f'⚠️ No se pudo limpiar el archivo: {e}')
+          "
+
+      # 8. Sube el archivo final ya limpio y corregido a tu repositorio
       - name: Guardar archivo final en GitHub
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add guia_laboratorio.xml
-          git commit -m "Guía de 5 días actualizada automáticamente por el robot" || exit 0
+          git commit -m "Guía de 5 días actualizada y saneada automáticamente por el robot" || exit 0
           git push
