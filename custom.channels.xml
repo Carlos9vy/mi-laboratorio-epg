@@ -50,7 +50,26 @@
   <channel site="programacion.tcc.com.uy" site_id="454" lang="es" xmltv_id="">Universal Reality</channel>
   <channel site="programacion.tcc.com.uy" site_id="455" lang="es" xmltv_id="">Universal Comedy</channel>
   <channel site="programacion.tcc.com.uy" site_id="456" lang="es" xmltv_id="">Universal Crime</channel>
+  <channel site="programacion.tcc.com.uy" site_id="330" lang="es" xmltv_id="">Sony HD</channel>
   <channel site="programacion.tcc.com.uy" site_id="468" lang="es" xmltv_id="SonyMoviesLatinAmerica.us@SD">Sony Movies</channel>
+  <channel site="programacion.tcc.com.uy" site_id="263" lang="es" xmltv_id="">HBO HD</channel>
+  <channel site="programacion.tcc.com.uy" site_id="197" lang="es" xmltv_id="">HBO 2 HD</channel>
+  <channel site="programacion.tcc.com.uy" site_id="272" lang="es" xmltv_id="">HBO Plus HD</channel>
+  <channel site="programacion.tcc.com.uy" site_id="198" lang="es" xmltv_id="HBOSignatureLatinAmerica.us@SD">HBO Signature HD</channel>
+  <channel site="programacion.tcc.com.uy" site_id="399" lang="es" xmltv_id="HBOFamilyLatinAmerica.us@SD">HBO Family</channel>
+  <channel site="programacion.tcc.com.uy" site_id="400" lang="es" xmltv_id="HBOMundiLatinAmerica.us@SD">HBO Mundi HD</channel>
+  <channel site="programacion.tcc.com.uy" site_id="401" lang="es" xmltv_id="HBOXtremeLatinAmerica.us@SD">HBO Xtreme HD</channel>
+  <channel site="programacion.tcc.com.uy" site_id="402" lang="es" xmltv_id="">HBO POP HD</channel>
+  <channel site="programacion.tcc.com.uy" site_id="305" lang="es" xmltv_id="">Warner HD</channel>
+  <channel site="programacion.tcc.com.uy" site_id="281" lang="es" xmltv_id="">TNT HD</channel>
+  <channel site="programacion.tcc.com.uy" site_id="282" lang="es" xmltv_id="">TNT Series HD</channel>
+  <channel site="programacion.tcc.com.uy" site_id="283" lang="es" xmltv_id="">Space HD</channel>
+  <channel site="programacion.tcc.com.uy" site_id="297" lang="es" xmltv_id="">Cinecanal HD</channel>
+  <channel site="programacion.tcc.com.uy" site_id="287" lang="es" xmltv_id="">Cinemax HD</channel>
+  <channel site="programacion.tcc.com.uy" site_id="275" lang="es" xmltv_id="">STAR Channel HD</channel>
+  <channel site="programacion.tcc.com.uy" site_id="220" lang="es" xmltv_id="">FX HD</channel>
+  <channel site="programacion.tcc.com.uy" site_id="273" lang="es" xmltv_id="">AMC HD</channel>
+  <channel site="programacion.tcc.com.uy" site_id="397" lang="es" xmltv_id="">Studio Universal HD</channel>
   <channel site="tv.movistar.com.pe" site_id="lch3298" lang="es" xmltv_id="">M DEPORTES HD</channel>
   <channel site="tv.movistar.com.pe" site_id="lch3300" lang="es" xmltv_id="">M DEPORTES</channel>
   <channel site="plex.tv" site_id="66633339ebeb02ee8bd1597c" lang="es" xmltv_id="FIFAPlus.uk@HispanicAmerica">FIFA+</channel>
